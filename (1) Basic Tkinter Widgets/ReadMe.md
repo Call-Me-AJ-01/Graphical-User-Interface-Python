@@ -1,1 +1,1 @@
-In This Folder I Have Written Program For Basic Tkinter Widgets.
+In This Folder I Have Written Programs For Basic Tkinter Widgets.
